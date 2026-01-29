@@ -1,0 +1,12 @@
+# OmniWindowsMCP 依赖
+# MCP 服务器
+mcp
+
+# Web 服务
+fastapi
+uvicorn
+
+# Windows 自动化与 GUI
+pyautogui
+pywin32
+Pillow
