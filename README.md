@@ -14,7 +14,7 @@ OmniWindowsMCP 是一个面向 Windows 的 MCP（Model Context Protocol）示例
 
 1. 克隆仓库
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/wzj998/OmniWindowsMCP.git
    cd OmniWindowsMCP
    ```
 
@@ -53,7 +53,7 @@ OmniWindowsMCP is a Windows-focused MCP (Model Context Protocol) sample project 
 
 1. Clone the repo
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/wzj998/OmniWindowsMCP.git
    cd OmniWindowsMCP
    ```
 
