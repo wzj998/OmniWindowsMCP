@@ -5,6 +5,7 @@ mcp
 # Web 服务
 fastapi
 uvicorn
+requests
 
 # Windows 自动化与 GUI
 pyautogui

@@ -32,7 +32,7 @@ import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # 导入字幕窗口模块
-from MCPs.SubtitleWindow import subtitle_window
+from SubtitleWindow import subtitle_window
 
 # ==================== 服务器配置 ====================
 # 在此处配置服务器端口和主机地址
